@@ -38,7 +38,7 @@ public class EmailApp {
 			break;
 			
 		case 3:
-			dept ="hR";
+			dept ="hr";
 			break;
 			
 		case 4:
