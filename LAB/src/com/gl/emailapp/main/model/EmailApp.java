@@ -38,11 +38,11 @@ public class EmailApp {
 			break;
 			
 		case 3:
-			dept ="HR";
+			dept ="hR";
 			break;
 			
 		case 4:
-			dept ="Legal";
+			dept ="legal";
 			break;
 			
 		default :
